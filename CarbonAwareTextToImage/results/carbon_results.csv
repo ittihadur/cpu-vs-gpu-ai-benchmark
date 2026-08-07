@@ -1,0 +1,21 @@
+Image_Number,Prompt,Device,Generation_Time_Seconds,Energy_kWh,Carbon_kgCO2,GPU_Memory_MB,Image_Name,Image_Path
+1,A futuristic city at sunset,CPU,187.65,0.002876695889462214,0.0021969300246997693,,cpu_001.png,CarbonAwareTextToImage\generated_images\cpu\cpu_001.png
+1,A futuristic city at sunset,CUDA,54.48,0.0013251637429380167,0.0012118250053598776,5065.69775390625,cuda_001.png,CarbonAwareTextToImage\generated_images\gpu\cuda_001.png
+2,A snowy mountain landscape,CPU,163.08,0.0074340069103823936,0.005604233319007739,,cpu_002.png,CarbonAwareTextToImage\generated_images\cpu\cpu_002.png
+2,A snowy mountain landscape,CUDA,15.52,0.0005985400612794215,0.0009184884615360658,5067.63525390625,cuda_002.png,CarbonAwareTextToImage\generated_images\gpu\cuda_002.png
+3,A medieval castle on a hill,CPU,187.92,0.007135688877788737,0.005723611153277557,,cpu_003.png,CarbonAwareTextToImage\generated_images\cpu\cpu_003.png
+3,A medieval castle on a hill,CUDA,13.04,0.0005402068571687539,0.00037350496332190535,5067.63525390625,cuda_003.png,CarbonAwareTextToImage\generated_images\gpu\cuda_003.png
+4,A cyberpunk street at night,CPU,181.49,0.002301444936763499,0.0018387432983170803,,cpu_004.png,CarbonAwareTextToImage\generated_images\cpu\cpu_004.png
+4,A cyberpunk street at night,CUDA,12.59,0.000522531611656685,0.0003612841041471602,5067.63525390625,cuda_004.png,CarbonAwareTextToImage\generated_images\gpu\cuda_004.png
+5,A realistic tiger in a jungle,CPU,179.44,0.0021900819337632104,0.0017511217117206705,,cpu_005.png,CarbonAwareTextToImage\generated_images\cpu\cpu_005.png
+5,A realistic tiger in a jungle,CUDA,13.19,0.0005367150171524939,0.000371090666724423,5067.63525390625,cuda_005.png,CarbonAwareTextToImage\generated_images\gpu\cuda_005.png
+6,A beautiful beach during sunrise,CPU,183.76,0.0025200261224636172,0.0020010546027866795,,cpu_006.png,CarbonAwareTextToImage\generated_images\cpu\cpu_006.png
+6,A beautiful beach during sunrise,CUDA,13.44,0.0005540396096933712,0.0006294630179928503,5067.63525390625,cuda_006.png,CarbonAwareTextToImage\generated_images\gpu\cuda_006.png
+7,A fantasy forest with glowing trees,CPU,187.43,0.002627410179568838,0.0020706941336142972,,cpu_007.png,CarbonAwareTextToImage\generated_images\cpu\cpu_007.png
+7,A fantasy forest with glowing trees,CUDA,13.45,0.0005496814636316547,0.0006329379308617917,5067.63525390625,cuda_007.png,CarbonAwareTextToImage\generated_images\gpu\cuda_007.png
+8,An astronaut riding a horse,CPU,184.87,0.002631283929927602,0.0020816072370119197,,cpu_008.png,CarbonAwareTextToImage\generated_images\cpu\cpu_008.png
+8,An astronaut riding a horse,CUDA,13.3,0.000552113474487879,0.0005917918717295949,5067.63525390625,cuda_008.png,CarbonAwareTextToImage\generated_images\gpu\cuda_008.png
+9,A watercolor painting of a village,CPU,154.07,0.002344080528816141,0.001893423588936972,,cpu_009.png,CarbonAwareTextToImage\generated_images\cpu\cpu_009.png
+9,A watercolor painting of a village,CUDA,13.03,0.0005555372309438274,0.0003841045523841026,5067.63525390625,cuda_009.png,CarbonAwareTextToImage\generated_images\gpu\cuda_009.png
+10,A modern luxury house beside a lake,CPU,186.0,0.002659560611957898,0.0021237880087109353,,cpu_010.png,CarbonAwareTextToImage\generated_images\cpu\cpu_010.png
+10,A modern luxury house beside a lake,CUDA,12.96,0.000541288754078786,0.0003742529987463675,5067.63525390625,cuda_010.png,CarbonAwareTextToImage\generated_images\gpu\cuda_010.png
