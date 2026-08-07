@@ -1,0 +1,3 @@
+Device,Generation_Time_Seconds,Energy_kWh,Carbon_kgCO2
+CPU,179.571,0.003472,0.002729
+CUDA,17.5,0.000628,0.000585
